@@ -4,6 +4,7 @@ option go_package = "github.com/gdg-garage/dungeons-and-trolls/server/dungeonsan
 
 package dungeonsandtrolls;
 
+
 // The greeting service definition.
 service Greeter {
   // Sends a greeting
